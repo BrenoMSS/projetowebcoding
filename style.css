@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: aquamarine;
+    padding: 30px;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
